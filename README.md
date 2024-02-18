@@ -4,6 +4,9 @@ Junior Full Stack Developer with a solid background in in web development, speci
 
 ---
 
+💻 Languages and Tech Stacks:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 logo" title="HTML5" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 logo" title="CSS3" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" title="JavaScript" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" title="Python" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" title="React" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap logo" title="Bootstrap" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django logo" title="Django" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git logo" title="Git" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="Heroku logo" title="Heroku" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS logo" title="AWS" width="50" height="50" />
 
 
 
