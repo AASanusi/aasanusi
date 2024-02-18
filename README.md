@@ -1,4 +1,11 @@
 ### Hi there 👋, I am Ali and welcome to my Github Haven :star:!
+---
+Junior Full Stack Developer with a solid background in in web development, specializing in an array of front-end and back-end technologies. 
+
+---
+
+
+
 
 <!--
 **AASanusi/aasanusi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
