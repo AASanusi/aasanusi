@@ -1,8 +1,8 @@
 ### Al-Amin Sanusi
 ---
-👨‍💻 Passionate Junior Full Stack Developer | Driven by Innovation 🚀
+👨‍💻 Passionate Engineer| Driven by Innovation 🚀
 
-Welcome to my Github profile! I'm an aspiring Junior Full Stack Developer with a strong foundation in web development and a boundless commitment to continuous growth. 🌐
+Welcome to my Github profile! Passionate Engineer with a strong foundation in web development and a boundless commitment to continuous growth. 🌐
 
 🔗 Web Development Enthusiast: Proficient in HTML, CSS, JavaScript, Python, and React, I bring a creative problem-solving mindset to every project. My portfolio includes web applications that I've designed and developed to enhance user experiences and promote healthy practices.
 
