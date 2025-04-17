@@ -1,29 +1,25 @@
 ### Al-Amin Sanusi
 ---
-👨‍💻 Passionate Engineer| Driven by Innovation 🚀
+🚀 DevSecOps & DevSecAI Engineer | Security-Driven Automation | AI-Powered Threat Mitigation
 
-Welcome to my Github profile! Passionate Engineer with a strong foundation in web development and a boundless commitment to continuous growth. 🌐
+I am a results-driven DevSecOps & DevSecAI Engineer with a passion for integrating security at every stage of the software development lifecycle. With a strong foundation in cloud security, infrastructure as code (IaC), and AI-driven security automation, I help organisations build resilient, scalable, and secure systems.
 
-🔗 Web Development Enthusiast: Proficient in HTML, CSS, JavaScript, Python, and React, I bring a creative problem-solving mindset to every project. My portfolio includes web applications that I've designed and developed to enhance user experiences and promote healthy practices.
+🔹 DevSecOps Expertise:
 
-🧠 Innovator & Collaborator: I thrive in cross-functional teams and hackathons. As a key contributor to a Hackathon-winning project, I've led front-end development, embracing challenges, and fostering a user-friendly interface. 🏆
+Automating security controls in CI/CD pipelines (Github Actions)
+Cloud-native security on AWS, Azure, and GCP
+Infrastructure as Code (Terraform, Ansible)
+Container security (Docker, Kubernetes)
+Compliance & risk management (NIST, ISO 27001)
 
-🎨 UI Design & Multimedia Content Creator: Beyond coding, I'm actively exploring graphic design tools like Adobe Photoshop and Final Cut Pro. I believe that a keen eye for aesthetics enriches the user interface, and I'm committed to enhancing user experiences.
+🔹 DevSecAI Specialisation:
 
----
+AI/ML-driven security threat detection
+Automating anomaly detection in logs & networks
+Implementing AI-based fraud detection models
+Secure AI model deployment & governance
 
-💻 Languages and Tech Stacks:
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 logo" title="HTML5" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 logo" title="CSS3" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" title="JavaScript" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" title="Python" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" title="React" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap logo" title="Bootstrap" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django logo" title="Django" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git logo" title="Git" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="Heroku logo" title="Heroku" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS logo" title="AWS" width="50" height="50" />
-
----
-🛠️ IDE:
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode logo" title="VSCode" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/gitpod/gitpod-original.svg" alt="Gitpod logo" title="Gitpod" width="50" height="50" />
-
-
-
-
+I thrive in high-paced environments where automation, security, and AI intersect to drive innovation, efficiency, and resilience. If you're looking for someone who can bridge the gap between development, security, and AI-driven automation, let's connect!
 
 <!--
 **AASanusi/aasanusi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
